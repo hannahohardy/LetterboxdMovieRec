@@ -51,5 +51,5 @@ The LetterboxdMovieRec is a movie recommendation system that utilizes data from 
 
 - **Real-Time Data:** Integrating real-time movie data to ensure that the recommendation system remains up-to-date with the latest movie releases and ratings.
 
-##Author: Hannah Hardy + classmates in Data Structures course
+Author: Hannah Hardy + classmates in Data Structures course
 - was used to show case our depth vs breadth search
